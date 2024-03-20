@@ -6,8 +6,8 @@
 
 ## Pinned Projects
 
-- Personal Project
-  - Any project that I deveopled myself.
+- Personal Projects
+  - Any projects that I deveopled myself.
 - Solo programming - projects done by myself
   - A pre-made challengeto learn. 
 - Group projects
