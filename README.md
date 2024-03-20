@@ -2,20 +2,20 @@
 
 - I'm a Data Scientist/Data Analyst based in New Zealand ✈️
 - My interests include: D&D, Wood Working, Cooking/Eating delisious food 
-- I’m looking to work on new and interint projects to further learn
+- I’m looking to work on new and interesting projects to further my learning.
 
 ## Pinned Projects
 
 - Personal Project
   - Any project that I deveopled myself.
-- Solo programming - projects done by myself.
+- Solo programming - projects done by myself
   - A pre-made challengeto learn. 
 - Group projects
-  - Work done in groups to learn from and teach on another
+  - Work done in groups to learn from and teach on another.
 - Class Projects
   - Exploring data and learning new methods to analyse/model data. 
 - Final Project - multi week project 
-  - Indepth explorations of nutrional data and using predictive models to further explore data
+  - Indepth explorations of nutrional data and using predictive models to further explore data.
 
 <p align="center">
   <a href="https://skillicons.dev">
